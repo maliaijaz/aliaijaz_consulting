@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Ye;
+    src: url('../fonts/yeezy.ttf');
+}
+
+/* STYLES FOR HOME PAGE */
+
+body {
+	font-family: Ye;
+	color: #ababab;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.header-container {
+  padding-top: 28px;
+}
+
+.website-container {
+	padding-top: 100px;
+}
+
+.slogan {
+	/*font-size: 15px;*/
+}
+
+a {
+  color: #ababab;
+}
+
+.footer-container {
+	padding-top: 50px;
+	padding-bottom: 26px;
+}
+
+.modal .modal-content {
+	text-align: left;
+	font-size: 15px;
+}
+
+.title-container {
+	padding-bottom: 100px;
+}
+
+.site-name-separator {
+	padding-top: 10px;
+}
+
+.footer-section-separator {
+	padding-top: 6px;
+}
+
+div#modal1 {
+    outline: none;
+}
+
+i.far.fa-envelope {
+    font-size: 18px;
+}
